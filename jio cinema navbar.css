@@ -1,0 +1,61 @@
+div{
+    background-color: black;
+    height: 85px;
+    /* margin-right: 200px; */
+
+}
+*{
+    color: white;
+    text-transform:capitalize;
+    margin-right: 20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#logo{
+    font-weight: 900;
+    font-size:xx-large;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#subscribe{
+     color: goldenrod;
+    
+     height: 50px;
+  width: 60px;
+  border-style: solid;
+    border-color: goldenrod;
+    border-radius:20%;
+    border-width: 2px;
+    padding: 5px 10px 5px 10px;
+}
+a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size:14px;
+}
+#photo{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{ height: 30px;
+    width: 220px;
+    border-style:solid;
+background-color: black;
+border-width: 1px;
+border-radius: 25%;
+margin-left: 250px;
+
+}
+#news{
+    margin-right: 40px;
+}
+#ashwani{
+    margin-bottom:100px;
+}
+#foryou{
+    border-style: solid;
+    border-color: white;
+    border-radius:20%;
+    border-width: 1px;
+    padding: 5px 10px 5px 10px;
+}
